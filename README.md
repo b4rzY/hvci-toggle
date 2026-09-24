@@ -31,7 +31,7 @@ Two options that do the same thing:
 Each release lists its SHA256 hash, so you can check your download:
 
 ```powershell
-Get-FileHash ".\HVCI Toggle.exe"
+Get-FileHash ".HVCI-Toggle.exe"
 ```
 
 ## Build it yourself
