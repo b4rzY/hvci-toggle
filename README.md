@@ -25,7 +25,7 @@ You need to restart before either change takes effect. The app has a restart but
 
 Two options that do the same thing:
 
-- **`HVCI Toggle.exe`**: the GUI app. Get it from [Releases](../../releases). It asks for admin rights because it writes to `HKLM` and runs `bcdedit`.
+- **`HVCI-Toggle.exe`**: the GUI app. Get it from [Releases](../../releases). It asks for admin rights because it writes to `HKLM` and runs `bcdedit`.
 - **[`hvci-toggle.bat`](hvci-toggle.bat)**: a plain-text batch version. Open it in Notepad to read it, then right-click → *Run as administrator*.
 
 Each release lists its SHA256 hash, so you can check your download:
